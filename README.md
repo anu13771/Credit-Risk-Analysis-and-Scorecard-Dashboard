@@ -62,18 +62,17 @@ An interactive **Credit Risk Analysis Dashboard** was built in Excel to support 
 ---
 
 ## 📁 Repository Structure
---Credit-Risk-Analysis-and-Scorecard-Dashboard/
-│
-├── SQL/
-│ └── credit_risk_scorecard.sql
-│
-├── Excel/
-│ └── Credit_Risk_Dashboard.xlsx
-│
-├── Screenshots/
-│ └── Dashboard and SQL output images
-│
-└── README.md
+
+- Credit-Risk-Analysis-and-Scorecard-Dashboard/
+- ├── SQL/
+- │ └── credit_risk_scorecard.sql
+- ├── Excel/
+- │ └── Credit_Risk_Dashboard.xlsx
+- ├── Screenshots/
+- │ └── Dashboard and SQL output images
+- └── README.md
+
+
 
 ---
 
